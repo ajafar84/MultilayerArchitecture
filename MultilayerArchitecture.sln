@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultilayerArchitecture.API", "MultilayerArchitecture.API\MultilayerArchitecture.API.csproj", "{ED6BE662-968D-487C-86A9-A1BB8985673E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED6BE662-968D-487C-86A9-A1BB8985673E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED6BE662-968D-487C-86A9-A1BB8985673E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED6BE662-968D-487C-86A9-A1BB8985673E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED6BE662-968D-487C-86A9-A1BB8985673E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {981DEE46-B803-4576-AA0E-D4A93DAC252A}
+	EndGlobalSection
+EndGlobal
